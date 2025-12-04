@@ -3,4 +3,4 @@ def addiere(a, b):
 
 if __name__ == "__main__":
     ergebnis = addiere(3, 5)
-    print("Das Ergebnis lautet heute:", ergebnis)
+    print("Das Ergebnis lautet LOKAL:", ergebnis)
